@@ -11,14 +11,6 @@ This project is a simple flight route planner that uses object-oriented programm
 - **Find Shortest Path**: Use Dijkstra's algorithm to find the shortest path between two airports based on flight costs.
 - **OOP Design**: The system is designed using object-oriented principles such as classes, encapsulation, and data abstraction.
 
-## Technologies Used
-
-- **C++17**: The project is built using C++17 standard.
-- **Data Structures**:
-  - Unordered maps for managing airports and their connected flights.
-  - Vectors for storing flight details.
-  - Priority queues to implement Dijkstra's algorithm efficiently.
-
 ## Classes
 
 ### Airport
