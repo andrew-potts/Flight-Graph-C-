@@ -1,6 +1,6 @@
 # Flight Route Planner
 
-This project is a simple flight route planner that uses object-oriented programming (OOP) concepts in C++. It allows users to simulate and manage airports, flights, and find the shortest route between airports based on flight costs. The project utilizes graphs, Dijkstra's shortest path algorithm, and basic data structures like vectors and hash maps.
+This project is a simple flight route planner that uses object-oriented programming (OOP) concepts in C++. It allows users to simulate and manage airports, flights, and find the shortest route between airports based on flight costs. The project utilizes graphs, Dijkstra's shortest path algorithm, and basic data structures like graphs and priority queues.
 
 ## Features
 
