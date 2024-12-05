@@ -24,7 +24,7 @@ Manages airports and flights as a graph. Includes methods to add/remove airports
 
 ## Example Usage
 
-Here is an example of how the system works:
+Here is an example main function of how the system works:
 
 ### Example
 
